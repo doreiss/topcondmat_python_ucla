@@ -1,0 +1,14 @@
+dist/
+mathtools/build/
+mathtools/mathtools.egg-info/
+mathtools/mathtools/__pycache__/
+mathtools/mathtools/tests/__pycache__/
+optimization/build/
+optimization/optimization.egg-info/
+optimization/optimization/__pycache__/
+optimization/optimization/tests/__pycache__/
+tightbinding/build/
+tightbinding/tightbinding.egg-info/
+tightbinding/tightbinding/__pycache__/
+tightbinding/tightbinding/models/__pycache__/
+tightbinding/tightbinding/tests/__pycache__/
